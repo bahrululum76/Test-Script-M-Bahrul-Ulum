@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login</description>
+   <name>SCN_Login_2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85319090-0562-4102-8ca8-97f6d6ec4ddb</testCaseGuid>
+</TestCaseEntity>
